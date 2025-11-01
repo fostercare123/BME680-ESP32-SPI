@@ -76,10 +76,10 @@ Usage notes
   you’re monitoring (e.g., kitchen vs. bedroom).
 
 For a full explanation of the pressure reading and how to convert it to altitude, see
-[`docs/pressure.md`](docs/pressure.md).
+[Pressure.md](docs/Pressure.md).
 
 For a deeper look at the VOC resistance values and how to calibrate them, check
-[`docs/volatile organic compounds.md`](docs/voc.md).
+[Volatile_Organic_Compounds.md](docs/Volatile%20Organic%20Compounds.md).
 
 Feel free to adapt the code snippets and explanations to fit your own
 project documentation style. Happy hacking!
